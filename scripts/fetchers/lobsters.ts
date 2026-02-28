@@ -20,7 +20,7 @@ export async function fetchLobsters(): Promise<FetchResult> {
     );
     const now = new Date().toISOString();
 
-    const articles: Article[] = items.slice(0, 30).map((item) => ({
+    const articles: Article[] = items.slice(0, 25).map((item) => ({
       id: `lobsters-${item.short_id}`,
       title: item.title,
       url: item.url || item.comments_url,

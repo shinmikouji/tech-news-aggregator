@@ -1,18 +1,19 @@
 import fs from "node:fs";
 import path from "node:path";
-import type { Article, Category, DailyData, FetchResult, Source } from "../types";
+import type { Article, DailyData, FetchResult, Source } from "../types";
 import { classify } from "../classifier";
-import { dedup } from "../utils/dedup";
+import { filterArticles } from "../utils/dedup";
 import { getToday, getDataPath } from "../utils/date-utils";
+import { addSummaries } from "../summarizer/index.js";
 
 import { fetchHackerNews } from "./hacker-news";
-import { fetchReddit } from "./reddit";
 import { fetchHatenaBookmark } from "./hatena-bookmark";
 import { fetchZenn } from "./zenn";
 import { fetchDevto } from "./devto";
 import { fetchLobsters } from "./lobsters";
-import { fetchTldr } from "./tldr";
-import { fetchAwsWhatsNew } from "./aws-whatsnew";
+import { fetchPublickey } from "./publickey";
+import { fetchQiita } from "./qiita";
+import { fetchItmedia } from "./itmedia";
 
 interface FetcherEntry {
   name: string;
@@ -20,15 +21,23 @@ interface FetcherEntry {
   fn: () => Promise<FetchResult>;
 }
 
+const JP_SOURCES: Source[] = [
+  "hatena-bookmark",
+  "zenn",
+  "publickey",
+  "qiita",
+  "itmedia",
+];
+
 const FETCHERS: FetcherEntry[] = [
   { name: "Hacker News", source: "hacker-news", fn: fetchHackerNews },
-  { name: "Reddit", source: "reddit", fn: fetchReddit },
   { name: "はてなブックマーク", source: "hatena-bookmark", fn: fetchHatenaBookmark },
   { name: "Zenn", source: "zenn", fn: fetchZenn },
   { name: "dev.to", source: "devto", fn: fetchDevto },
   { name: "lobste.rs", source: "lobsters", fn: fetchLobsters },
-  { name: "TLDR", source: "tldr", fn: fetchTldr },
-  { name: "AWS What's New", source: "aws-whatsnew", fn: fetchAwsWhatsNew },
+  { name: "Publickey", source: "publickey", fn: fetchPublickey },
+  { name: "Qiita", source: "qiita", fn: fetchQiita },
+  { name: "ITmedia", source: "itmedia", fn: fetchItmedia },
 ];
 
 async function runFetcher(entry: FetcherEntry): Promise<FetchResult> {
@@ -56,6 +65,15 @@ function classifyArticles(articles: Article[]): Article[] {
     ...article,
     categories: classify(article),
   }));
+}
+
+function sortJapaneseFirst(articles: Article[]): Article[] {
+  return [...articles].sort((a, b) => {
+    const aJp = JP_SOURCES.includes(a.source) ? 0 : 1;
+    const bJp = JP_SOURCES.includes(b.source) ? 0 : 1;
+    if (aJp !== bJp) return aJp - bJp;
+    return (b.score ?? 0) - (a.score ?? 0);
+  });
 }
 
 function buildStats(articles: Article[]): DailyData["stats"] {
@@ -94,13 +112,21 @@ async function main() {
   console.log("");
   console.log(`[process] Total raw articles: ${allArticles.length}`);
 
-  // Deduplicate
-  allArticles = dedup(allArticles);
-  console.log(`[process] After dedup: ${allArticles.length}`);
+  // Filter (GitHub repo URLs) + Deduplicate
+  allArticles = filterArticles(allArticles);
+  console.log(`[process] After filter + dedup: ${allArticles.length}`);
 
   // Classify
   allArticles = classifyArticles(allArticles);
   console.log(`[process] Classification complete`);
+
+  // Add summaries (OGP + Gemini)
+  allArticles = await addSummaries(allArticles);
+  console.log(`[process] Summaries complete`);
+
+  // Sort: Japanese sources first, then by score
+  allArticles = sortJapaneseFirst(allArticles);
+  console.log(`[process] Sorting complete`);
 
   // Build daily data
   const today = getToday();

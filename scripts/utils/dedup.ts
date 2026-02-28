@@ -1,5 +1,28 @@
 import type { Article } from "../types";
 
+const GITHUB_REPO_RE =
+  /^https?:\/\/github\.com\/[^/]+\/[^/]+\/?$/;
+const GITHUB_ALLOWED_PATHS =
+  /^https?:\/\/github\.com\/[^/]+\/[^/]+\/(issues|pull|releases|discussions|blog|wiki)/;
+
+function isGitHubRepoUrl(url: string): boolean {
+  if (!url.includes("github.com/")) return false;
+  if (GITHUB_ALLOWED_PATHS.test(url)) return false;
+  if (GITHUB_REPO_RE.test(url)) return true;
+  // Match github.com/owner/repo/tree/... github.com/owner/repo/blob/... etc.
+  const m = url.match(/^https?:\/\/github\.com\/([^/]+)\/([^/]+)(\/|$)/);
+  if (!m) return false;
+  const thirdSegment = url.replace(/^https?:\/\/github\.com\/[^/]+\/[^/]+\/?/, "").split("/")[0];
+  if (!thirdSegment) return true; // bare repo URL
+  const allowed = ["issues", "pull", "releases", "discussions", "blog", "wiki"];
+  return !allowed.includes(thirdSegment);
+}
+
+export function filterArticles(articles: Article[]): Article[] {
+  const filtered = articles.filter((a) => !isGitHubRepoUrl(a.url));
+  return dedup(filtered);
+}
+
 /**
  * Normalize a URL for deduplication:
  * - Remove trailing slashes

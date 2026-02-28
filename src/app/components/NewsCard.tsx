@@ -18,6 +18,11 @@ export default function NewsCard({ article }: { article: Article }) {
           >
             {article.title}
           </a>
+          {article.summary && (
+            <p className="mt-1 text-sm leading-snug text-zinc-500 dark:text-zinc-400">
+              {article.summary}
+            </p>
+          )}
           <div className="mt-2 flex flex-wrap items-center gap-2">
             <SourceBadge source={article.source} />
             {categoryLabels.map((label) => (

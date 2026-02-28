@@ -15,7 +15,7 @@ interface DevtoArticle {
 export async function fetchDevto(): Promise<FetchResult> {
   try {
     const items = await fetchJson<DevtoArticle[]>(
-      "https://dev.to/api/articles?per_page=30&top=1"
+      "https://dev.to/api/articles?per_page=20&top=1"
     );
     const now = new Date().toISOString();
 

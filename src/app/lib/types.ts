@@ -1,41 +1,39 @@
 export type Source =
   | "hacker-news"
-  | "reddit"
+  | "publickey"
   | "hatena-bookmark"
   | "zenn"
   | "devto"
   | "lobsters"
-  | "tldr"
-  | "aws-whatsnew";
+  | "qiita"
+  | "itmedia";
 
 export type Category =
   | "ai"
   | "security"
-  | "architecture"
-  | "react-nextjs"
-  | "go"
-  | "aws"
+  | "frontend"
+  | "backend"
+  | "infra"
   | "other";
 
 export const CATEGORIES: { slug: Category; label: string }[] = [
   { slug: "ai", label: "AI" },
   { slug: "security", label: "Security" },
-  { slug: "architecture", label: "Architecture" },
-  { slug: "react-nextjs", label: "React/Next.js" },
-  { slug: "go", label: "Go" },
-  { slug: "aws", label: "AWS" },
+  { slug: "frontend", label: "Frontend" },
+  { slug: "backend", label: "Backend" },
+  { slug: "infra", label: "Infra" },
   { slug: "other", label: "Other" },
 ];
 
 export const SOURCE_LABELS: Record<Source, string> = {
   "hacker-news": "Hacker News",
-  reddit: "Reddit",
+  publickey: "Publickey",
   "hatena-bookmark": "はてなブックマーク",
   zenn: "Zenn",
   devto: "DEV.to",
   lobsters: "Lobsters",
-  tldr: "TLDR",
-  "aws-whatsnew": "AWS What's New",
+  qiita: "Qiita",
+  itmedia: "ITmedia",
 };
 
 export interface Article {
@@ -50,6 +48,7 @@ export interface Article {
   author?: string;
   publishedAt?: string;
   fetchedAt: string;
+  summary?: string;
 }
 
 export interface DailyData {

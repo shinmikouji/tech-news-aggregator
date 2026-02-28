@@ -6,7 +6,7 @@ const TOP_STORIES_URL =
 const ITEM_URL = (id: number) =>
   `https://hacker-news.firebaseio.com/v0/item/${id}.json`;
 
-const MAX_ITEMS = 50;
+const MAX_ITEMS = 30;
 const CONCURRENCY = 10;
 
 interface HNItem {
