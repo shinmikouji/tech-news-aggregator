@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 interface DatePickerProps {
   currentDate: string;
   availableDates: string[];
@@ -28,7 +30,7 @@ export default function DatePicker({
   return (
     <div className="flex items-center gap-3">
       {olderDate ? (
-        <a
+        <Link
           href={`/archive/${olderDate}`}
           className="rounded-lg p-2 text-zinc-500 transition-colors hover:bg-zinc-100 dark:text-zinc-400 dark:hover:bg-zinc-800"
           aria-label="前の日"
@@ -45,7 +47,7 @@ export default function DatePicker({
               clipRule="evenodd"
             />
           </svg>
-        </a>
+        </Link>
       ) : (
         <span className="p-2 text-zinc-300 dark:text-zinc-700">
           <svg
@@ -64,7 +66,7 @@ export default function DatePicker({
       )}
       <span className="text-lg font-semibold">{formatted}</span>
       {newerDate ? (
-        <a
+        <Link
           href={newerDate === availableDates[0] ? "/" : `/archive/${newerDate}`}
           className="rounded-lg p-2 text-zinc-500 transition-colors hover:bg-zinc-100 dark:text-zinc-400 dark:hover:bg-zinc-800"
           aria-label="次の日"
@@ -81,7 +83,7 @@ export default function DatePicker({
               clipRule="evenodd"
             />
           </svg>
-        </a>
+        </Link>
       ) : (
         <span className="p-2 text-zinc-300 dark:text-zinc-700">
           <svg
