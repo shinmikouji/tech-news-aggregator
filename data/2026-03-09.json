@@ -1,0 +1,2570 @@
+{
+  "date": "2026-03-09",
+  "fetchedAt": "2026-03-08T21:28:42.723Z",
+  "articles": [
+    {
+      "id": "hatena-1119f20152f4",
+      "title": "南場智子「ますます“速さ”が命題に」DeNA AI Day2026全文書き起こし - エンジニアtype | 転職type",
+      "url": "https://type.jp/et/feature/30605/",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-08T01:48:55.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "DeNA南場智子氏による2026年3月の最新講演。生産性20倍の裏にある「中途半…"
+    },
+    {
+      "id": "hatena-d879485001fb",
+      "title": "AIがオープンソースの「鍵」を壊す日――chardet騒動の本質｜情報の灯台",
+      "url": "https://note.com/joho_no_todai/n/n0ee446fdff40",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-08T12:20:52.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z"
+    },
+    {
+      "id": "hatena-f1bf79db7d6b",
+      "title": "アーキテクチャ図、コードで書こう - C4モデル入門",
+      "url": "https://zenn.dev/uniquevision/articles/625e00137b75af",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-08T02:32:41.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z"
+    },
+    {
+      "id": "hatena-a69c4a5225b4",
+      "title": "まだAIコードをレビューするか、しないかで言い争ってるの？",
+      "url": "https://zenn.dev/nuits_jp/articles/2026-03-08-reviewing-ai-code",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-08T02:20:26.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z"
+    },
+    {
+      "id": "hatena-d8e876b2e854",
+      "title": "Pandasはもう古い？2026年のPythonデータ分析ライブラリを整理してみた - Qiita",
+      "url": "https://qiita.com/YASUHARA-Wataru/items/5a8a16a2b7e91c3536a8",
+      "source": "hatena-bookmark",
+      "categories": [
+        "backend"
+      ],
+      "publishedAt": "2026-03-07T21:39:57.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "はじめに Pythonを使い始めてはや十数年。他の言語も覚えないと思いつつ、研究…"
+    },
+    {
+      "id": "hatena-cb4dc5aa98d4",
+      "title": "噂のノートPCのBIOSを調べた - えぬえす工房",
+      "url": "https://www.ns-koubou.com/blog/2026/03/07/7430u-notebook/",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-07T15:44:04.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "CHUWI CoreBook X 7430Uを取り巻く噂の検証のため、UEFI …"
+    },
+    {
+      "id": "hatena-67a07bb07f79",
+      "title": "AWS×クラウドネイティブソフトウェア設計 / AWS x Cloud-Native Software Design",
+      "url": "https://speakerdeck.com/nrslib/aws-x-cloud-native-software-design",
+      "source": "hatena-bookmark",
+      "categories": [
+        "infra"
+      ],
+      "publishedAt": "2026-03-07T08:59:05.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z"
+    },
+    {
+      "id": "hatena-93ff31a7cbfc",
+      "title": "ClaudeCodeでマーケターの課題を解決する",
+      "url": "https://speakerdeck.com/kenichiota0711/claudecodedemaketanoke-ti-wojie-jue-suru",
+      "source": "hatena-bookmark",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-08T01:34:21.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z"
+    },
+    {
+      "id": "hatena-69be70f10fc6",
+      "title": "Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した - Qiita",
+      "url": "https://qiita.com/NF0000/items/66510f959b1c22f011a7",
+      "source": "hatena-bookmark",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-08T10:57:07.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "はじめに バックドアが仕込まれたOSSをClaude Codeに渡して「機能追加…"
+    },
+    {
+      "id": "hatena-c09b36067db4",
+      "title": "「アーキテクチャ図はもう要らない」は本当か？ ── LLM時代のC4モデル再考",
+      "url": "https://zenn.dev/uniquevision/articles/1ddf3a6ecb0ad7",
+      "source": "hatena-bookmark",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-07T12:12:41.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z"
+    },
+    {
+      "id": "hatena-d36d0d16e006",
+      "title": "手動でのコーディングをやめていく際のメモ",
+      "url": "https://zenn.dev/koyo_k0/articles/c4f90b2ff722e0",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T20:08:01.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z"
+    },
+    {
+      "id": "hatena-7690ed551911",
+      "title": "AWS、AWS上ですぐ使えるOpenClawを提供開始。仮想プライベートサーバ（VPS）の「Amazon Lightsail」のインスタンスイメージとして",
+      "url": "https://www.publickey1.jp/blog/26/awsawsopenclawvpsamazon_lightsail.html",
+      "source": "hatena-bookmark",
+      "categories": [
+        "ai",
+        "infra"
+      ],
+      "publishedAt": "2026-03-08T14:02:27.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "Amazon Web Services（AWS）は、仮想プライベートサーバ（VP…"
+    },
+    {
+      "id": "hatena-02f7c73256b1",
+      "title": "システムのメモリ・CPU・GPUに合わせて適切なAIモデルを教えてくれるターミナルツール「llmfit」",
+      "url": "https://gigazine.net/news/20260308-llmfit/",
+      "source": "hatena-bookmark",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-08T10:23:45.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "生成AIの話題に欠くことのない昨今、ある程度のパワーを有するPCが手元にある方は…"
+    },
+    {
+      "id": "hatena-9c10635a4bd4",
+      "title": "エンジニアがChatGPTを使いこなせていないかもしれない話 - Qiita",
+      "url": "https://qiita.com/kamome_susume/items/e80b763797d073815710",
+      "source": "hatena-bookmark",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-07T07:07:36.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "突然ですが、こんな気持ちになったことありませんか？ 「ChatGPTって、なんと…"
+    },
+    {
+      "id": "hatena-f15db180f5f0",
+      "title": "Claude Code の 便利コマンド5選",
+      "url": "https://zenn.dev/kusaaagi/articles/claude-code-hidden-commands",
+      "source": "hatena-bookmark",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-07T14:53:25.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z"
+    },
+    {
+      "id": "hatena-97d5a5cff853",
+      "title": "You Need to Rewrite Your CLI for AI Agents",
+      "url": "https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/",
+      "source": "hatena-bookmark",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-05T03:41:41.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "Human DX optimizes for discoverability. …"
+    },
+    {
+      "id": "hatena-243e635ea8be",
+      "title": "超音波で高速振動。電動アシストで切れ味倍増するとんでもない包丁",
+      "url": "https://www.gizmodo.jp/2026/03/seattle-ultrasonics-c200-kitchen-knife-94t.html",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-07T12:05:29.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": " &lt;small&gt;2025年9月24日の記事を編集して再掲載しています…"
+    },
+    {
+      "id": "hatena-29da548b2fd0",
+      "title": "ジュニアエンジニアの人、AI後はこうしたらええんちゃう？という話｜牛尾　剛",
+      "url": "https://note.com/simplearchitect/n/nf00d38494ac3",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-08T01:11:39.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z"
+    },
+    {
+      "id": "hatena-ad510d443ca7",
+      "title": "Structurizr",
+      "url": "https://structurizr.com/",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2016-01-20T23:21:31.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "Visualise, document and explore your sof…"
+    },
+    {
+      "id": "hatena-e2c0add0339e",
+      "title": "Datadog の RBAC のすべて",
+      "url": "https://speakerdeck.com/nulabinc/allabout-datadog-rbac",
+      "source": "hatena-bookmark",
+      "categories": [
+        "security"
+      ],
+      "publishedAt": "2026-03-06T09:17:43.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z"
+    },
+    {
+      "id": "hatena-7f604a897f02",
+      "title": "「光速船」40年の時を越えて復活　一人のファンの夢から始まった“愛と情熱の物語“とは？",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/08/news020.html",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-08T00:50:55.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "1980�N��A�ƒ�p�Q�[���@�Ƃ��Ă͑��ɗނ����Ȃ��u�…"
+    },
+    {
+      "id": "hatena-a67d0cda98ec",
+      "title": "MacBook Neoに搭載されたA18 ProチップのNeural Engineを利用したAIスコアは、Apple M3チップを上回るもよう。",
+      "url": "https://applech2.com/archives/20260307-macbook-neo-with-a18-pro-ai-benchmark.html",
+      "source": "hatena-bookmark",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-07T23:25:09.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "カナダPrimate Labsのデータベースに、Apple A18 Proチップ…"
+    },
+    {
+      "id": "hatena-1e5507262327",
+      "title": "https://www.mckinsey.com/jp/~/media/mckinsey/locations/asia/japan/our%20insights/what%20is%20an%20ai%20agent/what%20is%20an%20ai%20agent___2k_0723.pdf",
+      "url": "https://www.mckinsey.com/jp/~/media/mckinsey/locations/asia/japan/our%20insights/what%20is%20an%20ai%20agent/what%20is%20an%20ai%20agent___2k_0723.pdf",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-08T04:17:20.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z"
+    },
+    {
+      "id": "hatena-d2cedd4ba0a2",
+      "title": "mixi2 Developer Platform β",
+      "url": "https://developer.mixi.social/",
+      "source": "hatena-bookmark",
+      "categories": [
+        "security"
+      ],
+      "publishedAt": "2026-03-07T00:24:02.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "mixi2 Developer Platform"
+    },
+    {
+      "id": "hatena-2ca00b7cc955",
+      "title": "【完全版活用ガイド】Claude Code拡張機能の全体像を知る - Qiita",
+      "url": "https://qiita.com/nogataka/items/eb51b0d250a9d1061e51",
+      "source": "hatena-bookmark",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-01T10:42:48.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "はじめに Claude Codeは対話するだけでも十分に活用できる。しかし5つの…"
+    },
+    {
+      "id": "hatena-999809e77bda",
+      "title": "サイバーエージェント GEOラボ、生成AIのユーザー利用実態調査 第三弾を実施　検索行動の「生成AIシフト」がさらに加速、利用率は37.0%に到達　全世代で利用率が上昇し、20代では初めて過半数を突破",
+      "url": "https://www.cyberagent.co.jp/news/detail/id=33041",
+      "source": "hatena-bookmark",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-05T11:59:17.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": " サイバーエージェントの新たな取り組みやサービス情報など、当社のニュースリリース…"
+    },
+    {
+      "id": "hatena-1875dac8c7f5",
+      "title": "Firefoxがデザインの大幅な刷新を計画中：「Nova」が提示するUIの転換点とMozillaの決定的な焦燥 | XenoSpectrum",
+      "url": "https://xenospectrum.com/firefox-nova-redesign-ui-strategy/",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-07T04:35:07.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "Webブラウザ市場において長らく苦境に立たされているMozillaが、起死回生の…"
+    },
+    {
+      "id": "hatena-3d2101532dd5",
+      "title": "Volta is unmaintained; we recommend migrating to `mise` · Issue #2080 · volta-cli/volta",
+      "url": "https://github.com/volta-cli/volta/issues/2080",
+      "source": "hatena-bookmark",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-08T06:27:42.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.769Z",
+      "summary": "The volta maintainers recommend using mi…"
+    },
+    {
+      "id": "zenn-e6d36d910cca",
+      "title": "予測市場の構造──集合知・市場設計・規制で理解する未来予測",
+      "url": "https://zenn.dev/barabara/books/prediction-markets-structure",
+      "source": "zenn",
+      "categories": [
+        "other"
+      ],
+      "author": "Kobara Toi",
+      "publishedAt": "2026-03-08T08:41:32.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z",
+      "summary": "PolymarketとKalshiは何が違うのか、そもそも予測市場とは何なのか、…"
+    },
+    {
+      "id": "zenn-5d1c16d67a86",
+      "title": "Markdown ドキュメント間の整合性を検証する contextlint を作っている話",
+      "url": "https://zenn.dev/nozomi_cobo/articles/contextlint-introduction",
+      "source": "zenn",
+      "categories": [
+        "other"
+      ],
+      "author": "Nozomi Koborinai",
+      "publishedAt": "2026-03-07T13:38:44.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-19f41cd113be",
+      "title": "では素晴らしい提案をしよう。お前もSlideVTuberにならないか？",
+      "url": "https://zenn.dev/koeloop/articles/lightning-slide-vtuber-kit-intro",
+      "source": "zenn",
+      "categories": [
+        "other"
+      ],
+      "author": "KoeLoopDev",
+      "publishedAt": "2026-03-07T04:28:15.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-913b1cb46d72",
+      "title": "AI生成PRが自分のOSSプロジェクトに送られてくることについて思うこと、コントリビューターにできる助け方",
+      "url": "https://zenn.dev/dai_shi/articles/a686bdf7fd5800",
+      "source": "zenn",
+      "categories": [
+        "other"
+      ],
+      "author": "daishi",
+      "publishedAt": "2026-03-07T04:22:26.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-663683e4aeab",
+      "title": "Claude Max (20倍プラン) を1ヶ月以上契約して感じたこと",
+      "url": "https://zenn.dev/soyukke/articles/b1529facaea27f",
+      "source": "zenn",
+      "categories": [
+        "ai"
+      ],
+      "author": "そゆっけ",
+      "publishedAt": "2026-03-06T15:06:31.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-f93fcbc9c17c",
+      "title": "Symphony - OpenAIが発表したチケット駆動AI開発ツールについて",
+      "url": "https://zenn.dev/komlock_lab/articles/openai-symphony",
+      "source": "zenn",
+      "categories": [
+        "ai"
+      ],
+      "author": "Natsuki Yamaguchi",
+      "publishedAt": "2026-03-06T07:48:55.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-5e73e199ab60",
+      "title": "ポップコーンUIとReact",
+      "url": "https://zenn.dev/akfm/articles/popcorn-ui-anti-pattern",
+      "source": "zenn",
+      "categories": [
+        "frontend"
+      ],
+      "author": "akfm_sato",
+      "publishedAt": "2026-03-06T06:00:37.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-069a6e09ec8a",
+      "title": "OSSにおけるAI Slop問題の何が問題なのか？",
+      "url": "https://zenn.dev/yusukebe/articles/3fd5bc6ea341c9",
+      "source": "zenn",
+      "categories": [
+        "other"
+      ],
+      "author": "yusukebe",
+      "publishedAt": "2026-03-06T03:51:29.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-71aba0646af1",
+      "title": "スピードも品質も諦めたくない！そんな願いを叶える「仕様駆動開発」のススメ",
+      "url": "https://zenn.dev/securenavi_tech/articles/20260301-sdd-introduction",
+      "source": "zenn",
+      "categories": [
+        "other"
+      ],
+      "author": "ホッケ肉厚",
+      "publishedAt": "2026-03-06T03:00:01.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-7eb268bdb210",
+      "title": "Vibe Codingは実プロジェクトで通用するのか？ 約6ヶ月試してわかったことと必要なスキル",
+      "url": "https://zenn.dev/mkj/articles/9827c9d7686a73",
+      "source": "zenn",
+      "categories": [
+        "other"
+      ],
+      "author": "李 碩根",
+      "publishedAt": "2026-03-06T02:50:05.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-5c0acbdaa0ea",
+      "title": "Claude Codeを組織導入するためのプラン選定ガイド",
+      "url": "https://zenn.dev/knowledgework/articles/claude-code-organization-plan-guide",
+      "source": "zenn",
+      "categories": [
+        "ai"
+      ],
+      "author": "minodisk",
+      "publishedAt": "2026-03-05T22:00:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-ddae479f2677",
+      "title": "ブラウザだけで完結する日本語OCR＋透視変換（台形補正）を作ってみた",
+      "url": "https://zenn.dev/lecto/articles/dea43a2dfa52ad",
+      "source": "zenn",
+      "categories": [
+        "other"
+      ],
+      "author": "tamoco",
+      "publishedAt": "2026-03-05T14:58:19.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-8be22610c2a7",
+      "title": "Claude Code に `cc` というエイリアスをつけたら PC がハングした話（原因は別でした）",
+      "url": "https://zenn.dev/owayo/articles/6190821ac1dd1e",
+      "source": "zenn",
+      "categories": [
+        "ai"
+      ],
+      "author": "owayo",
+      "publishedAt": "2026-03-05T13:35:36.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-3ec0ed5cf0a3",
+      "title": "コードレビューにClaude Code subagentsを導入したら、レビューレベルが改善した話",
+      "url": "https://zenn.dev/mgdx_blog/articles/8f7994ad84151d",
+      "source": "zenn",
+      "categories": [
+        "ai"
+      ],
+      "author": "koh789",
+      "publishedAt": "2026-03-05T06:45:46.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-5fbdf0fe6eab",
+      "title": "コミットメッセージを自分で書かない",
+      "url": "https://zenn.dev/hfm/articles/commit-message-generated-by-ai",
+      "source": "zenn",
+      "categories": [
+        "other"
+      ],
+      "author": "hfm",
+      "publishedAt": "2026-03-05T01:14:16.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-93bdee08059d",
+      "title": "Claude Code に向いているプログラミング言語",
+      "url": "https://zenn.dev/mametter/articles/3e8580ec034201",
+      "source": "zenn",
+      "categories": [
+        "ai"
+      ],
+      "author": "Yusuke Endoh",
+      "publishedAt": "2026-03-05T00:22:41.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "zenn-f7c62cf10396",
+      "title": "個人的 AI情報の追い方",
+      "url": "https://zenn.dev/knowledgework/articles/my-ai-catchup",
+      "source": "zenn",
+      "categories": [
+        "other"
+      ],
+      "author": "よしこ",
+      "publishedAt": "2026-03-04T23:04:07.000Z",
+      "fetchedAt": "2026-03-08T21:28:15.818Z"
+    },
+    {
+      "id": "publickey-32e3a02f04f7",
+      "title": "OpenAI、「Codex for Windows」正式リリース。Windowsサンドボックス内で安全にAIエージェントを実行、WSLにも対応",
+      "url": "https://www.publickey1.jp/blog/26/openaicodex_for_windowswindowsaiwsl.html",
+      "source": "publickey",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-08T15:46:45.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "OpenAIは、Windows対応のAIエージェントによる開発環境「Codex …"
+    },
+    {
+      "id": "publickey-ed2e952c60ca",
+      "title": "Claude Codeが「音声モード」搭載。AIに話しかけながらのコーディングが可能に",
+      "url": "https://www.publickey1.jp/blog/26/claude_codeai.html",
+      "source": "publickey",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-08T15:38:43.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "Anthropicが提供するAIコーディングツールであるClaude Codeに…"
+    },
+    {
+      "id": "publickey-819c18a4c2fe",
+      "title": "Google Workspaceをコマンドラインで操作する「gws」、Googleがオープンソースで公開。Agent Skillsファイルも提供し、AIエージェントによる適切な操作実現",
+      "url": "https://www.publickey1.jp/blog/26/google_workspacegwsgoogleagent_skillsai.html",
+      "source": "publickey",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-05T15:35:40.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "Googleは、GmailやGoogle Drive、Sheets、Docs、C…"
+    },
+    {
+      "id": "publickey-e9a55ea88fad",
+      "title": "State of JavaScript 2025公開／コーディングエージェントを安全にする分離環境／AI時代の開発プラットフォーム「Entire CLI」公開ほか。2026年2月の人気記事",
+      "url": "https://www.publickey1.jp/blog/26/state_of_javascript_2025aientire_cli20262.html",
+      "source": "publickey",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-05T15:34:34.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "ちょっと汚い話で恐縮ですが、先日、人生で初めて膀胱炎を経験しました。 夜中に何度…"
+    },
+    {
+      "id": "publickey-fec80ad18019",
+      "title": "The React Foundatoinが正式に創設、中立的なReactの開発へ。Linux Foundation傘下で",
+      "url": "https://www.publickey1.jp/blog/26/the_react_foundatoinreactlinux_foundation.html",
+      "source": "publickey",
+      "categories": [
+        "frontend",
+        "infra"
+      ],
+      "publishedAt": "2026-03-04T15:30:02.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "ReactおよびReact Nativeの開発を中立的な立場で主導する団体「Th…"
+    },
+    {
+      "id": "publickey-0ffdd7c4f031",
+      "title": "Google、Chromeのリリースサイクルを2週間に短縮すると発表。Webの進化がさらに高速に",
+      "url": "https://www.publickey1.jp/blog/26/googlechrome2web.html",
+      "source": "publickey",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T15:27:10.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "Googleは、同社が提供しているWebブラウザ「Chrome」のリリースサイク…"
+    },
+    {
+      "id": "publickey-c86c7595610d",
+      "title": "主要なブラウザエンジンにて、Service WorkerでのJavaScriptモジュール機能が利用可能に",
+      "url": "https://www.publickey1.jp/blog/26/service_workerjavascript.html",
+      "source": "publickey",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T15:22:57.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "主要なブラウザエンジンにおいて、JavaScriptをバックグラウンドで動作させ…"
+    },
+    {
+      "id": "publickey-82706e395b09",
+      "title": "AWS、中東でデータセンター施設がドローンの直接攻撃を受けたことを公表。3つのアベイラビリティゾーンのうち2つが著しく損傷",
+      "url": "https://www.publickey1.jp/blog/26/aws32.html",
+      "source": "publickey",
+      "categories": [
+        "infra"
+      ],
+      "publishedAt": "2026-03-03T15:38:16.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "Amazon Web Services（AWS）は、米国とイスラエルがイランを軍…"
+    },
+    {
+      "id": "publickey-232586eb45c3",
+      "title": "NTTドコモ、AWSを用いた5Gコアネットワークの商用運用を開始。AIエージェントを用いた設計、構築の自動化により人為ミスの防止や構築期間の80%短縮を実現",
+      "url": "https://www.publickey1.jp/blog/26/nttaws5gai80.html",
+      "source": "publickey",
+      "categories": [
+        "ai",
+        "infra"
+      ],
+      "publishedAt": "2026-03-03T15:36:44.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "NTTドコモとAWSは、NTTドコモがAWSのクラウドサービスと同社のオンプレミ…"
+    },
+    {
+      "id": "publickey-18d8c2a1f376",
+      "title": "AWSがOpenAIの企業向けAIエージェント基盤「OpenAI Frontier」の独占的な外部クラウドプロバイダーになると発表、AmazonがOpenAIに7兆5000億円を投資",
+      "url": "https://www.publickey1.jp/blog/26/awsopenaiaiopenai_frontieramazonopenai75000.html",
+      "source": "publickey",
+      "categories": [
+        "ai",
+        "infra"
+      ],
+      "publishedAt": "2026-03-02T15:13:19.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "Amazon Web Services（AWS）とOpenAIは、企業向けのAI…"
+    },
+    {
+      "id": "publickey-ee767384290e",
+      "title": "「Amazon Bedrock」でOpenAI API互換のPorjects APIを提供開始。オープンウェイトな基盤モデルでOpenAI SDKが利用可能に",
+      "url": "https://www.publickey1.jp/blog/26/amazon_bedrockopenai_apiopenai_sdk.html",
+      "source": "publickey",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-02T15:09:44.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "Amazon Web Services（AWS）は、同社のAIプラットフォームで…"
+    },
+    {
+      "id": "publickey-246a6368644d",
+      "title": "「月刊DBマガジン」が復刻、Kindleで第一弾が販売開始",
+      "url": "https://www.publickey1.jp/blog/26/dbkindle.html",
+      "source": "publickey",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-02T15:06:26.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "翔泳社は「月刊DBマガジン」復刻版第一弾の販売をKindleで開始したと発表しま…"
+    },
+    {
+      "id": "publickey-ee4c291755a8",
+      "title": "AWS、ログイン不要で「Aurora DSQL」をすぐ試せるプレイグラウンド公開。PostgreSQLとの互換性チェックに",
+      "url": "https://www.publickey1.jp/blog/26/awsaurora_dsqlpostgresql.html",
+      "source": "publickey",
+      "categories": [
+        "backend",
+        "infra"
+      ],
+      "publishedAt": "2026-03-01T16:01:36.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "Amazon Web Services（AWS）は、同社のデータベースサービスA…"
+    },
+    {
+      "id": "publickey-30423ef93a1a",
+      "title": "Vercel、単一のTypeScriptコードでSlack、Teams、Discordをはじめ主要チャットサービスに対応したチャットボットが作れる「Chat SDK」、オープンソースで公開",
+      "url": "https://www.publickey1.jp/blog/26/verceltypescriptslackteamsdiscordchat_sdk.html",
+      "source": "publickey",
+      "categories": [
+        "frontend"
+      ],
+      "publishedAt": "2026-03-01T15:58:52.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.484Z",
+      "summary": "Vercelは、単一のTypeScriptコードで複数のチャットプラットフォーム…"
+    },
+    {
+      "id": "qiita-f7d49e4e3667",
+      "title": "【初心者完全版】Reactを使いこなすためのデザインパターン入門【図解解説】",
+      "url": "https://qiita.com/Sicut_study/items/299a221088f5905332a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "frontend"
+      ],
+      "publishedAt": "2026-03-08T09:33:59.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに こんにちは、Watanabe Jin(@Sicut_study)です。…"
+    },
+    {
+      "id": "qiita-2f03dc55a575",
+      "title": "AIエージェントだけでスクラムを回してみた",
+      "url": "https://qiita.com/shyamagu/items/0ff827a1c2deef68ba9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T23:26:47.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "この記事のまとめ: GitHub Copilotのカスタムエージェント機能を使い…"
+    },
+    {
+      "id": "qiita-b0e66f62485c",
+      "title": "【初心者向け】物理層と論理層がわかったら、クラウドが一気にスッキリした話",
+      "url": "https://qiita.com/ktdatascience/items/f30d1cd8fd0f7dce692d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-07T06:38:22.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに ― クラウドサービスが多すぎて混乱していた頃 データエンジニアとして働…"
+    },
+    {
+      "id": "qiita-bc5a6992a591",
+      "title": "【初心者向け】「これ何て読むの？」IT業界の初見殺し用語を50個集めてみた",
+      "url": "https://qiita.com/ktdatascience/items/e0a9b48a93d9c0305399?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T01:05:33.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "「これ何て読むの？」IT業界の初見殺し用語を50個集めてみた はじめに IT業界…"
+    },
+    {
+      "id": "qiita-5cae0a662c1b",
+      "title": "【学生エンジニア必見】27卒就活でメガベンチャーから内定をもらうためにやったことを全て書く",
+      "url": "https://qiita.com/bisketoriba/items/8aa17810306d02490260?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-07T08:07:54.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに 27卒エンジニア就活(学部)でメガベンチャーから内定をもらうためにやっ…"
+    },
+    {
+      "id": "qiita-5b720d57a2db",
+      "title": "Vimを開いて閉じられず、半泣きでPCを再起動したあの日の私へ捧ぐ",
+      "url": "https://qiita.com/fe1ix/items/f46a3253211a51966baa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T13:47:20.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに Linuxを触り始めたビギナーにとって、避けては通れない最強のトラップ…"
+    },
+    {
+      "id": "qiita-230fe7775b5c",
+      "title": "draw.ioのMCP Toolを使ってアーキテクチャ図を自動生成する",
+      "url": "https://qiita.com/xxyc/items/ab8af60a632e7a562e06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-08T02:14:50.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "最近、draw.ioが公式のMCP Toolを公開しました。 draw.io は…"
+    },
+    {
+      "id": "qiita-6796b98632b8",
+      "title": "【個人開発】アプリを作って気づいた、AI時代でもインフルエンサーが強いって話",
+      "url": "https://qiita.com/h-uchiba/items/afc1075c474cc601c576?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T23:21:25.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに 以前、こちらの記事で、モバイルアプリ開発に初挑戦した話を書きました。 …"
+    },
+    {
+      "id": "qiita-3a138f5ea8bb",
+      "title": "Claude Codeを使いこなすために最低限知っておくべきこと4選！",
+      "url": "https://qiita.com/nAotO01_03/items/d8e58f7282f1c44dca14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-06T04:06:44.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "1. はじめに 昨今、AIエージェントを活用した開発が主流になりつつあります。 …"
+    },
+    {
+      "id": "qiita-2045d0a60585",
+      "title": "Unity MCP + CodexでAIにUnityを操作させてキャラクターを踊らせてみた",
+      "url": "https://qiita.com/kumi0708/items/e4e5d864219d1693d0d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-06T07:24:18.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "Unityの AI Assistant v2.0.0-pre.1 から、 Uni…"
+    },
+    {
+      "id": "qiita-555d36cc063a",
+      "title": "Linux デスクトップが“Windowsの代替”にならない技術的背景",
+      "url": "https://qiita.com/wada_heisak/items/95812936304ee978a946?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "infra"
+      ],
+      "publishedAt": "2026-03-06T12:45:03.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "― 技術的事実とメディア構造から見える“偏向報道の闇” ― 最近、「Window…"
+    },
+    {
+      "id": "qiita-456e7dc6a464",
+      "title": "Claude Codeが本番DBを消した事故 ― 改めて確認しておきたいインフラの基本",
+      "url": "https://qiita.com/nogataka/items/fd00eff2cc08684fe77d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-08T09:02:25.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに 2026年2月末、オンライン学習コミュニティの運営者がClaude C…"
+    },
+    {
+      "id": "qiita-bb5fe194c4ea",
+      "title": "Claude に jq の JIT コンパイラを作らせたらめちゃくちゃ速くなった",
+      "url": "https://qiita.com/m5d215/items/6b814078a0ad47654b42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-07T22:04:03.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに jq — JSON を操作するコマンドラインツール。便利だけど、ガチプ…"
+    },
+    {
+      "id": "qiita-34c02a4ea2bb",
+      "title": "GitHub Copilot のカスタムAgentを4つ連携させてQiita記事生成を半自動化した話",
+      "url": "https://qiita.com/shahin0809/items/b978e6f5338960b2a9ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-07T21:28:31.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに 「Qiita記事を書くたびにリサーチ・コード作成・レビューを全部自分で…"
+    },
+    {
+      "id": "qiita-d89c5d57c249",
+      "title": "BFF(Backend For Frontend)入門：なぜ中間にサーバーを置くのか？",
+      "url": "https://qiita.com/aki_number16/items/c4b0a91e1a6b5cf2041f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-08T03:14:37.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "最近、マイクロサービスやフロントエンド開発の文脈でよく耳にするのが「BFF」です…"
+    },
+    {
+      "id": "qiita-f7bb0424f8d4",
+      "title": "「お前今日何したんだよ」に答えるワークフローをn8nで構築した",
+      "url": "https://qiita.com/okayu__11/items/423023160e01e3b42540?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T07:24:06.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "作ったもの LINEで学習した内容を送るだけで、AIが自動でカテゴリーを分類し、…"
+    },
+    {
+      "id": "qiita-42dd74acd086",
+      "title": "観光客が増えてもお金が回らない ― 日本の中に生まれる“外国経済圏” のメカニズム : Pythonで学ぶ マクロ経済学入門 (56)",
+      "url": "https://qiita.com/maskot1977/items/7689412cc9d5a1bbab88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "backend"
+      ],
+      "publishedAt": "2026-03-07T16:07:02.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "user: 「Pythonで学ぶマクロ経済学入門」の続きをやりましょう。まず 「…"
+    },
+    {
+      "id": "qiita-e203a80c99e9",
+      "title": "未経験独学でCISSPに合格した話",
+      "url": "https://qiita.com/Vixmy/items/23a16aa7d3f11fd8623b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-08T04:07:42.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに セキュリティどころかIT実務経験ゼロの筆者が先日、CISSP試験に合格…"
+    },
+    {
+      "id": "qiita-db43b32671f3",
+      "title": "Microsoft Graph入門：Microsoft 365連携の仕組み・認証方法・Graph Explorer活用法",
+      "url": "https://qiita.com/Chawan_riddhi/items/926b38b4f986e3001cfc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T05:38:42.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに 「Microsoft 365 と連携するアプリを作りたい」 「Outl…"
+    },
+    {
+      "id": "qiita-089a3ee3d8dc",
+      "title": "【経験談】GeminiからchatGPTに乗り換えたワケ",
+      "url": "https://qiita.com/kamome_susume/items/5f1816a30d5bb691c60a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-07T08:47:44.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "この記事は、AIを使わずに全て手作業100%で作られています。私の実体験をもとに…"
+    },
+    {
+      "id": "qiita-287f75129be9",
+      "title": "Claude Codeの/loopとスケジュールタスクで定期作業を自動化する",
+      "url": "https://qiita.com/nogataka/items/23884e80a1716234f068?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-08T09:07:39.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに Claude Codeに/loopコマンドとスケジュールタスク機能が追…"
+    },
+    {
+      "id": "qiita-cd8e9163d3a5",
+      "title": "【セキュリティ】なぜAPIキーは流出するのか？2026年最新データと実例から学ぶ原因と対策",
+      "url": "https://qiita.com/ktdatascience/items/588b63bcae18cd1f5f16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T01:37:09.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに 生成AIの普及により、OpenAI・Anthropic・Google …"
+    },
+    {
+      "id": "qiita-2c65003e39c0",
+      "title": "MCPとCLI、どちらを使うべきか──実践的な選択フレームワーク",
+      "url": "https://qiita.com/nogataka/items/e3ada35270f082a3ddd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "ai",
+        "infra"
+      ],
+      "publishedAt": "2026-03-08T08:44:40.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "3行まとめ MCPとCLIは、ユースケースによって向き不向きがあります。以下の表…"
+    },
+    {
+      "id": "qiita-2c3cb469cadb",
+      "title": "2026/03/08 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/e76bf0f37d2bcc9f70aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-08T01:13:54.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤…"
+    },
+    {
+      "id": "qiita-814de27f01ef",
+      "title": "11tyで作ったブログの使用感がなかなか良い",
+      "url": "https://qiita.com/hukusima65/items/e59acb6600f0464a1bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-07T09:28:35.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "はじめに 11tyというJavaScriptのフレームワークでブログを作成しまし…"
+    },
+    {
+      "id": "qiita-20ed01a8b060",
+      "title": "AWS環境でのWindowsサーバパッチ適用パターンまとめ（Patch Manager / WSUS / Windows Update）",
+      "url": "https://qiita.com/infra365/items/d5be468c29eca544abdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "infra"
+      ],
+      "publishedAt": "2026-03-07T20:57:40.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "内容 AWS環境でのプライベートサブネットにあるWindowsサーバへのパッチ適…"
+    },
+    {
+      "id": "qiita-3e06bc325f9c",
+      "title": "【2026年版】新人エンジニアが爆速で成長するための「最強の武器」ガイド",
+      "url": "https://qiita.com/CodeTea_Ping999/items/163e27bd3b0901e89abb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "source": "qiita",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-07T09:23:50.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.136Z",
+      "summary": "地元の友人がこれからエンジニアを目指したり、環境を整えたりする際に役立つよう、2…"
+    },
+    {
+      "id": "itmedia-bc8c4e908a70",
+      "title": "新作「バイオハザード」にゲーム好きマンガ家が感じた“しんどさ”の正体　で、自作「アンブレラヌードル」のお味は？",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/08/news017.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-07T22:14:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�J�v�R���̐l�C�z���[�Q�[���V���[�Y�ŐV��u�…"
+    },
+    {
+      "id": "itmedia-91fb00fd8f14",
+      "title": "カラー、エヴァ30周年フェスで上映した短編アニメをYouTubeで公開　流出動画対策か",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/07/news033.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-07T14:13:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�J���[��7���A2�����{�ɊJ�Â����u�G���@���Q…"
+    },
+    {
+      "id": "itmedia-f6e3f6b8a548",
+      "title": "大阪万博会場の3Dデータ無償公開　「大屋根リング」や各種パビリオンも　国交省",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/07/news025.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-07T01:00:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "���y��ʏȂ��A�f�W�^���c�C���x���v���W�F�N�…"
+    },
+    {
+      "id": "itmedia-da329fd771c0",
+      "title": "米国防総省、Anthropicを「サプライチェーンリスク」に正式指定　法廷で争うとアモデイCEO",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/07/news030.html",
+      "source": "itmedia",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-06T22:46:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "Anthropic�̃_���I�E�A���f�CCEO�́A�č��h���…"
+    },
+    {
+      "id": "itmedia-2d1e27b97e05",
+      "title": "スマホをモニター接続→PCみたいに操作できる「デスクトップモード」　一部のPixel・Galaxyに提供開始",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news140.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T13:30:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "��Google��3��3���A���j�^�[�Ɛڑ����邱�ƂŁAAn…"
+    },
+    {
+      "id": "itmedia-4274ff5556e7",
+      "title": "新作ゲーム「ぽこ あ ポケモン」の偽攻略本、Amazonで出現中　生成AIを悪用か　購入時には要注意",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news139.html",
+      "source": "itmedia",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-06T10:32:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�|�P�����Ђ̐V��Q�[���u�ۂ� �� �|�P�����v�̋…"
+    },
+    {
+      "id": "itmedia-64829d6e1e31",
+      "title": "カイロス飛行中断のスペースワン社長「失敗と思っていない」強気の姿勢　今後にも影響なし",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news137.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T09:53:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�u�q���̋O�������͂ł��Ȃ��������A���l�ȃf�[�…"
+    },
+    {
+      "id": "itmedia-cdbe18c54e3f",
+      "title": "詐欺師がうっかりミス？　“詐欺メールのデザイン”のポイントを誤表記　あるフィッシングメールが話題に",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news134.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T09:15:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "���\\���[���͂ǂ̂悤�ɂ��Č����������o���Ă���̂�…"
+    },
+    {
+      "id": "itmedia-cb13d0d25c9f",
+      "title": "村田製作所に不正アクセス、情報漏えいの可能性も",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news132.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T09:09:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�d�q���i���̑��c���쏊��6���A���Ђ�IT���ő�O…"
+    },
+    {
+      "id": "itmedia-cea53c47dcfe",
+      "title": "文化庁「閉館は想定せず」　国立の博物館や美術館の中期目標を解説するページに明記",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news122.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T08:36:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "��������6���A�����̓Ɨ��s���@�l���^�c���鍑�…"
+    },
+    {
+      "id": "itmedia-c5c46c2af1bc",
+      "title": "X、「続きは有料で」可能に　スレッド形式の投稿、途中から課金コンテンツに",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news113.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T07:18:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "X���A�A�����铊�e��r������L�����ł�����v���…"
+    },
+    {
+      "id": "itmedia-f1470430ae0e",
+      "title": "「5ちゃんねる」のドメイン「5ch.net」永久停止へ　動物虐待コンテンツ放置で",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news112.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T07:16:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "5�����˂�́A��փh���C���u5ch.io�v�ł̉^�p���n…"
+    },
+    {
+      "id": "itmedia-5745d99e7dd9",
+      "title": "“次世代Xbox”は「Project Helix」、PCゲームもプレイ可能に",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news095.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T04:19:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "��Microsoft�̃Q�[������CEO�ɏA�C�����A�V��…"
+    },
+    {
+      "id": "itmedia-1f7c1c0ad20f",
+      "title": "大手回転すしチェーンで相次ぐ「食い逃げ」被害　狙われたセルフレジ、性善説のジレンマ",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news091.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-06T03:22:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "���H�A�_�ˎs���̉�]�����`�F�[���X�ŁA�Z���t…"
+    },
+    {
+      "id": "itmedia-1549b9c51cbc",
+      "title": "SANAE TOKEN、発行元プロジェクトが中止に　「関係者への影響を勘案」",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news079.html",
+      "source": "itmedia",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-06T01:39:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�N�ƉƂ̍a���E�������^�c���鐭���nYouTube�`��…"
+    },
+    {
+      "id": "itmedia-e4b9630614ec",
+      "title": "Nature誌、ポケモン誕生30周年を祝う　科学界に多大な影響　「ポケモン集めは昆虫学者の仕事とほぼ同じ」",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news038.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T23:00:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "���E�I���Ђ����w�p���uNature�v�́A�a��30�…"
+    },
+    {
+      "id": "itmedia-dfeae3e5b346",
+      "title": "厚労省、がん患者の5年生存率を公表　部位で異なる生存率　発症自体を防ぐ、予防可能な生活習慣とは？",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news037.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T23:00:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�����J���Ȃ́A2016�N�ɂ���Ɛf�f���ꂽ���҂̌o�߂�…"
+    },
+    {
+      "id": "itmedia-668972360ce6",
+      "title": "米AWSの中東リージョン、「革命防衛隊によるドローン攻撃の標的」とイラン国営メディア",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/06/news074.html",
+      "source": "itmedia",
+      "categories": [
+        "infra"
+      ],
+      "publishedAt": "2026-03-05T22:22:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�C�������c���f�B�A��Farsnews�́AAWS�̃o�[�…"
+    },
+    {
+      "id": "itmedia-3ae6430cf833",
+      "title": "消費者庁、威圧してクーリング・オフさせない札幌の通信事業者に関して注意喚起",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news130.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T11:15:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "����Ғ���5���A����҂��N�[�����O�E�I�t��\\��…"
+    },
+    {
+      "id": "itmedia-87f58160fea7",
+      "title": "Xの検索が不調……そんなときはYahoo!リアルタイム検索だ",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news125.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T09:27:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "3���ɓ����Ă���AX�̌����@�\\���s�����B�R�}��…"
+    },
+    {
+      "id": "itmedia-05f6539363df",
+      "title": "「不満と復讐心」勤務先に強制シャットダウンのプログラム仕込む、元IT会社員を逮捕　被害額は約2000万円",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news121.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T08:53:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�Ζ���̃t�@�C���T�[�o�[�ɋ����I�ɃV���b�g�_�…"
+    },
+    {
+      "id": "itmedia-1d1958edb717",
+      "title": "日本勢が取り込みづらい“エモ需要”まで――カメラ市場に欠かせなくなった中国ブランド群",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news119.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T08:30:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�J�����Ǝʐ^�̃��[���h�v���~�A�V���[�uCP+�v…"
+    },
+    {
+      "id": "itmedia-e8e7fbd89136",
+      "title": "Claude Codeに「オートモード」登場　承認作業をAIで自動化",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news116.html",
+      "source": "itmedia",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-05T07:38:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "��Anthropic���AAI�R�[�f�B���O�x���c�[���…"
+    },
+    {
+      "id": "itmedia-09f593e9a9cc",
+      "title": "トイレ詰まり、もうあふれさせない　センサー付きで業務改善　リクシルが小型店向け新製品",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news108.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T06:20:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�Z��ݔ�����LIXIL�i���N�V���j�́A�֊킩��̂��ӂ�…"
+    },
+    {
+      "id": "itmedia-ebec94bacfcf",
+      "title": "「“閉館”どこにも書いてない」──国立の博物館や美術館に収益目標設定の真意、文化庁に聞いた",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news101.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T05:04:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "��������Web�T�C�g�Ō��J���ꂽ�����̓Ɨ��s���@…"
+    },
+    {
+      "id": "itmedia-8c92f0b21f5c",
+      "title": "「この電話、詐欺かも」警告　NTTタウンページが無料アプリ公開",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news096.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T04:20:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "���\\�Ǝv����ԍ����璅�M�����ہA�Ւf������x����…"
+    },
+    {
+      "id": "itmedia-c0c148b23fa3",
+      "title": "小学館「マンガワン」炎上、危機管理広報のプロが指摘する“初動のマズさ”　漂う不誠実さの正体",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news078.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T04:00:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "���w�ق̖���z�M�T�[�r�X�u�}���K�����v�����…"
+    },
+    {
+      "id": "itmedia-d33fa521c9a6",
+      "title": "30分以内で配送「Amazon Now」渋谷で開始　食品や日用品など数千点",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news089.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T03:45:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "������́A������ʂ���z�B�\\�莞���Ɣz�B���̂����…"
+    },
+    {
+      "id": "itmedia-c251a2df9102",
+      "title": "WBCで「誹謗中傷検知システム」導入　選手への中傷、AIがチェック　悪質投稿者は入場禁止も",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news088.html",
+      "source": "itmedia",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-05T03:30:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�O������Ԃ�SNS���e���Ď����A��排����̗}�~�Ɛv…"
+    },
+    {
+      "id": "itmedia-b7d026739a06",
+      "title": "「会社ぐるみでの関与はない」　マンガワン問題、小学館が文春報道に釈明　",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news081.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T03:01:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�S���ҏW�҂̊֗^�͔F�߂A��Ђ���݂ł̊֗^�͂Ȃ��A�Ǝߖ…"
+    },
+    {
+      "id": "itmedia-55537b2753a5",
+      "title": "アクセンチュア、ダウンディテクターのOoklaを12億ドルで買収",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news060.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-05T00:26:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "Accenture�́AZiff Davis�P����Ookla��12���…"
+    },
+    {
+      "id": "itmedia-be186f6e9620",
+      "title": "「フォートナイト」がGoogle Playに復帰へ　Googleがアプリ課金とストアの制限を大幅緩和",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news058.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T22:02:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "Google�́AAndroid�A�v���̐V�V�X�e���𔭕\\���…"
+    },
+    {
+      "id": "itmedia-675c756da303",
+      "title": "「MacBook Neo」正式発表　9万9800円から　iPhoneチップを採用した“廉価版MacBook”",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news163.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T14:30:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "��Apple��3��4���A�V�^�m�[�gPC�uMacBook N…"
+    },
+    {
+      "id": "itmedia-d951c5ee3499",
+      "title": "電動キックボードで違反→義務の講習呼び出しも無視し書類送検　警視庁、全国初の摘発",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news153.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T10:33:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�d���L�b�N�{�[�h�Ŋ댯�Ȉᔽ���J��Ԃ��A��u���`�…"
+    },
+    {
+      "id": "itmedia-8007060ea837",
+      "title": "スズキ、「全固体電池」事業に参入　カナデビアから事業取得",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news155.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T10:30:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�X�Y�L��3��4���A�J�i�f�r�A�i���{���s�j��…"
+    },
+    {
+      "id": "itmedia-292ac71908ca",
+      "title": "メロンブックス、通販サイトに「PayPay」導入　“PayPay残高での決済のみ”利用可能",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news144.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T08:34:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "���l���̒ʔ̂Ȃǂ���|���郁�����u�b�N�X�́AEC�T�…"
+    },
+    {
+      "id": "itmedia-e87dd6f5f790",
+      "title": "「学生の将来に影を落とす」──千葉工大の学生が伊藤穰一学長の口から“十分“な説明を求める署名活動　",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news142.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T08:19:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�G�v�X�^�C���t�@�C���ɐ�t�H�Ƒ�w�̈ɓ��t��w�…"
+    },
+    {
+      "id": "itmedia-e02ca50a4c3b",
+      "title": "“AI生成”明かさず戦争の動画を投稿すると収益化停止、2度目で永久停止──Xの新方針",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news131.html",
+      "source": "itmedia",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-04T05:57:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "AI�Ő����������͕����Ɋ֘A���铮����AAI�����Ɩ�…"
+    },
+    {
+      "id": "itmedia-eaf2d5f01475",
+      "title": "「SANAE TOKEN」名称変更へ　補償の方針も表明",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news130.html",
+      "source": "itmedia",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-04T05:38:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�N�ƉƂ̍a���E�������^�c���鐭���nYouTube�`��…"
+    },
+    {
+      "id": "itmedia-2dea3631e985",
+      "title": "マイクロソフトの“独占禁止法疑惑”巡り、意見募集開始　公取委が発表",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news126.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T05:26:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "��������ψ���́A�}�C�N���\\�t�g�E�R�[�|���[…"
+    },
+    {
+      "id": "itmedia-763999b67cd0",
+      "title": "ファミマのマルチコピー機「3月9日にアクセス集中のおそれ」……「人気コンテンツ」最終日のため",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news118.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T04:39:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�����Ɂu�l�C�R���e���c�v�̔̔����I�����邽�߁B…"
+    },
+    {
+      "id": "itmedia-2dc12cd6f9ed",
+      "title": "イラン関連のサイバー攻撃活発化か　ロシア系ハクティビストの活動も　パロアルト調査",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news110.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T03:32:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�Z�L�����e�B��Ƃ̕�Palo Alto Networks��3��…"
+    },
+    {
+      "id": "itmedia-7a32d29d7c81",
+      "title": "首相官邸、偽サイトに再び注意喚起　「政府支援の自動収益プロジェクト」うたい投資勧誘",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news097.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T02:41:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�񑊊��@��3���A�񑊊��@�z�[���y�[�W�ɂȂ肷�܂���…"
+    },
+    {
+      "id": "itmedia-7e346447bbde",
+      "title": "「まんが日本昔ばなし」公式サイト公開、“遺跡発掘のように\"手作業でデジタル化　「こんな時代だからこそ」共創パートナー募集",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news089.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T01:36:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "AI�����p���A�́E�s���x�q����A��c�x�m�j���…"
+    },
+    {
+      "id": "itmedia-eaceb7d16201",
+      "title": "「月刊DBマガジン」が復刻、Kindleで第1弾が販売開始",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news088.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T01:13:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�ĉj�Ђ́u����DB�}�K�W���v�����ő�1�e�̔̔���K…"
+    },
+    {
+      "id": "itmedia-97b2714af4eb",
+      "title": "e-Tax不具合、約8時間でようやく解消　2月に続き2度目　納税者「またか」",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news087.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T00:57:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "���Ԓ��̏�Q�͖��N�P��ŁA�[�Ŏ҂���s��������Ă��…"
+    },
+    {
+      "id": "itmedia-d87533506074",
+      "title": "Microsoft Build 2026、今年はサンフランシスコで2日間の開催に",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news086.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-04T00:40:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "Microsoft�͔N���J���҉�c�uBuild 2026�v��6�…"
+    },
+    {
+      "id": "itmedia-65e71e65e3ce",
+      "title": "“文字の起源”を覆す発見か　4万年前の旧石器人類が刻んだ記号、原楔形文字に匹敵の情報量　PNAS誌で掲載",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news035.html",
+      "source": "itmedia",
+      "categories": [
+        "other"
+      ],
+      "publishedAt": "2026-03-03T23:00:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "�h�C�c�̃U�[�������g��w�ƃh�C�c�̃x��������…"
+    },
+    {
+      "id": "itmedia-27c0054a9bcf",
+      "title": "MacBook Proに「M5 Pro」「M5 Max」登場　AI性能はM4世代比で最大4倍　若干値上げも",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/04/news073.html",
+      "source": "itmedia",
+      "categories": [
+        "ai"
+      ],
+      "publishedAt": "2026-03-03T15:10:00.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.667Z",
+      "summary": "��Apple��3��3���A�uMacBook Pro�v�ɐV�`�b�…"
+    },
+    {
+      "id": "hn-47299009",
+      "title": "The changing goalposts of AGI and timelines",
+      "url": "https://mlumiste.com/general/openai-charter/",
+      "source": "hacker-news",
+      "categories": [
+        "ai"
+      ],
+      "score": 299,
+      "comments": 170,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47299009",
+      "author": "skandium",
+      "publishedAt": "2026-03-08T17:16:38.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "Based on its own charter, OpenAI should …"
+    },
+    {
+      "id": "hn-47291513",
+      "title": "LLM Writing Tropes.md",
+      "url": "https://tropes.fyi/tropes-md",
+      "source": "hacker-news",
+      "categories": [
+        "ai"
+      ],
+      "score": 297,
+      "comments": 134,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47291513",
+      "author": "walterbell",
+      "publishedAt": "2026-03-07T21:08:40.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "A single file containing all known AI wr…"
+    },
+    {
+      "id": "hn-47298044",
+      "title": "FrameBook",
+      "url": "https://fb.edoo.gg",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 296,
+      "comments": 56,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47298044",
+      "author": "todsacerdoti",
+      "publishedAt": "2026-03-08T15:21:09.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "me when FrameBook."
+    },
+    {
+      "id": "hn-47298885",
+      "title": "LibreOffice Writer now supports Markdown",
+      "url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 200,
+      "comments": 40,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47298885",
+      "author": "todsacerdoti",
+      "publishedAt": "2026-03-08T17:01:50.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "We’re pleased to announce the release of…"
+    },
+    {
+      "id": "hn-47295837",
+      "title": "Notes on writing Rust-based Wasm",
+      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+      "source": "hacker-news",
+      "categories": [
+        "backend"
+      ],
+      "score": 181,
+      "comments": 78,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47295837",
+      "author": "vinhnx",
+      "publishedAt": "2026-03-08T09:24:54.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "I’ve been writing an increasing amount o…"
+    },
+    {
+      "id": "hn-47254896",
+      "title": "Why can't you tune your guitar? (2019)",
+      "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 139,
+      "comments": 110,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47254896",
+      "author": "digitallogic",
+      "publishedAt": "2026-03-04T22:30:27.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "Short answer: because math. Longer answe…"
+    },
+    {
+      "id": "lobsters-azkace",
+      "title": "Lenovo’s New T-Series ThinkPads Score 10/10 for Repairability",
+      "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 126,
+      "comments": 37,
+      "commentsUrl": "https://lobste.rs/s/azkace/lenovo_s_new_t_series_thinkpads_score_10_10",
+      "publishedAt": "2026-03-07T03:39:13.000-06:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z",
+      "summary": "Repair goes mega mainstream with the lau…"
+    },
+    {
+      "id": "hn-47297919",
+      "title": "Living human brain cells play DOOM on a CL1 [video]",
+      "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 103,
+      "comments": 91,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47297919",
+      "author": "kevinak",
+      "publishedAt": "2026-03-08T15:07:28.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "Enjoy the videos and music you love, upl…"
+    },
+    {
+      "id": "hn-47256376",
+      "title": "My “grand vision” for Rust",
+      "url": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
+      "source": "hacker-news",
+      "categories": [
+        "backend"
+      ],
+      "score": 80,
+      "comments": 71,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47256376",
+      "author": "todsacerdoti",
+      "publishedAt": "2026-03-05T01:37:42.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z"
+    },
+    {
+      "id": "hn-47298743",
+      "title": "My Homelab Setup",
+      "url": "https://bryananthonio.com/blog/my-homelab-setup/",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 78,
+      "comments": 76,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47298743",
+      "author": "photon_collider",
+      "publishedAt": "2026-03-08T16:46:10.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "How I repurposed my old gaming PC to set…"
+    },
+    {
+      "id": "hn-47239117",
+      "title": "Log messages are mostly for the people operating your software",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 78,
+      "comments": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47239117",
+      "author": "todsacerdoti",
+      "publishedAt": "2026-03-03T21:15:23.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z"
+    },
+    {
+      "id": "hn-47300934",
+      "title": "Neural Boids",
+      "url": "https://campedersen.com/noid",
+      "source": "hacker-news",
+      "categories": [
+        "security"
+      ],
+      "score": 69,
+      "comments": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47300934",
+      "author": "ecto",
+      "publishedAt": "2026-03-08T20:14:54.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "Those aren&#x27;t boids. I&#x27;m callin…"
+    },
+    {
+      "id": "hn-47297913",
+      "title": "What if the Apple ][ had run on Field-Sequential?",
+      "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
+      "source": "hacker-news",
+      "categories": [
+        "backend"
+      ],
+      "score": 64,
+      "comments": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47297913",
+      "author": "zdw",
+      "publishedAt": "2026-03-08T15:05:40.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "One thing I remain fascinated by is the …"
+    },
+    {
+      "id": "hn-47301085",
+      "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+      "url": "https://agent-safehouse.dev/",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 55,
+      "comments": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47301085",
+      "author": "atombender",
+      "publishedAt": "2026-03-08T20:30:18.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "Sandbox your LLM coding agents on macOS.…"
+    },
+    {
+      "id": "lobsters-xndrk0",
+      "title": "Usage Specification",
+      "url": "https://usage.jdx.dev/spec/",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 49,
+      "comments": 18,
+      "commentsUrl": "https://lobste.rs/s/xndrk0/usage_specification",
+      "publishedAt": "2026-03-07T11:04:46.000-06:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z",
+      "summary": "Schema for CLIs"
+    },
+    {
+      "id": "hn-47299022",
+      "title": "Show HN: Skir – like Protocol Buffer but better",
+      "url": "https://skir.build/",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 39,
+      "comments": 35,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47299022",
+      "author": "gepheum",
+      "publishedAt": "2026-03-08T17:17:54.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "A descriptive language for representing …"
+    },
+    {
+      "id": "devto-3326254",
+      "title": "Not Everyone Gets to Be a Beginner in Tech",
+      "url": "https://dev.to/the_nortern_dev/not-everyone-gets-to-be-a-beginner-in-tech-9a8",
+      "source": "devto",
+      "categories": [
+        "other"
+      ],
+      "score": 39,
+      "comments": 16,
+      "author": "the_nortern_dev",
+      "publishedAt": "2026-03-08T09:02:53Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "This is a submission for the 2026 WeCode…"
+    },
+    {
+      "id": "lobsters-u8x6xv",
+      "title": "Ki Editor | Multi-cursor structural editor",
+      "url": "https://ki-editor.org/",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 38,
+      "comments": 12,
+      "commentsUrl": "https://lobste.rs/s/u8x6xv/ki_editor_multi_cursor_structural_editor",
+      "publishedAt": "2026-03-07T10:03:22.000-06:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z"
+    },
+    {
+      "id": "hn-47291876",
+      "title": "Microscopes Can See Video on a LaserDisc",
+      "url": "https://www.youtube.com/watch?v=qZuR-772cks",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 37,
+      "comments": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47291876",
+      "author": "zdw",
+      "publishedAt": "2026-03-07T22:03:37.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "Enjoy the videos and music you love, upl…"
+    },
+    {
+      "id": "lobsters-kgpyat",
+      "title": "Put the ZIP code first",
+      "url": "https://zipcodefirst.com/",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 35,
+      "comments": 32,
+      "commentsUrl": "https://lobste.rs/s/kgpyat/put_zip_code_first",
+      "publishedAt": "2026-03-08T06:10:14.000-05:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z",
+      "summary": "It"
+    },
+    {
+      "id": "hn-47293195",
+      "title": "Pushing and Pulling: Three reactivity algorithms",
+      "url": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+      "source": "hacker-news",
+      "categories": [
+        "frontend"
+      ],
+      "score": 28,
+      "comments": 2,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47293195",
+      "author": "frogulis",
+      "publishedAt": "2026-03-08T00:57:57.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z"
+    },
+    {
+      "id": "hn-47271338",
+      "title": "A basket of new fruit varieties is coming your way",
+      "url": "https://www.economist.com/science-and-technology/2026/03/04/a-basket-of-new-fruit-varieties-is-coming-your-way",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 28,
+      "comments": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47271338",
+      "author": "vinni2",
+      "publishedAt": "2026-03-06T05:46:28.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z"
+    },
+    {
+      "id": "hn-47260812",
+      "title": "Every Single Board Computer I Tested in 2025",
+      "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 25,
+      "comments": 0,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47260812",
+      "author": "speckx",
+      "publishedAt": "2026-03-05T12:24:10.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "I benchmarked 15 SBCs released in 2025 a…"
+    },
+    {
+      "id": "hn-47301264",
+      "title": "She called 911 for an ambulance. She got a nightmare instead",
+      "url": "https://www.seattletimes.com/seattle-news/times-watchdog/seattle-womans-911-calls-reveal-gaps-in-ambulance-service/",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 24,
+      "comments": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47301264",
+      "author": "petethomas",
+      "publishedAt": "2026-03-08T20:45:49.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z"
+    },
+    {
+      "id": "lobsters-bjb3dz",
+      "title": "The Window Chrome of Our Discontent",
+      "url": "https://pxlnv.com/blog/window-chrome-of-our-discontent/",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 23,
+      "comments": 0,
+      "commentsUrl": "https://lobste.rs/s/bjb3dz/window_chrome_our_discontent",
+      "publishedAt": "2026-03-07T18:58:16.000-06:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z",
+      "summary": "In a WWDC 2011 session, Dan Schimpf expl…"
+    },
+    {
+      "id": "hn-47299606",
+      "title": "I made a programming language with M&Ms",
+      "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 21,
+      "comments": 2,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47299606",
+      "author": "tosh",
+      "publishedAt": "2026-03-08T18:18:40.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "I built a tiny programming language wher…"
+    },
+    {
+      "id": "devto-3326184",
+      "title": "The Women Who Helped Me Grow as a Developer",
+      "url": "https://dev.to/konark_13/the-women-who-helped-me-grow-as-a-developer-40f6",
+      "source": "devto",
+      "categories": [
+        "other"
+      ],
+      "score": 20,
+      "comments": 6,
+      "author": "konark_13",
+      "publishedAt": "2026-03-08T08:20:47Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "Last night while reading articles on Dev…"
+    },
+    {
+      "id": "lobsters-hekrwd",
+      "title": "If It Quacks Like a Package Manager",
+      "url": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 20,
+      "comments": 4,
+      "commentsUrl": "https://lobste.rs/s/hekrwd/if_it_quacks_like_package_manager",
+      "publishedAt": "2026-03-08T06:27:41.000-05:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z",
+      "summary": "Some tools waddle like package managers …"
+    },
+    {
+      "id": "hn-47300747",
+      "title": "We should revisit literate programming in the agent era",
+      "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 19,
+      "comments": 5,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47300747",
+      "author": "horseradish",
+      "publishedAt": "2026-03-08T19:58:15.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "Literate programming is the idea that co…"
+    },
+    {
+      "id": "lobsters-c7tzjs",
+      "title": "Perfect types with `setHTML()`",
+      "url": "https://frederikbraun.de/perfect-types-with-sethtml.html",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 19,
+      "comments": 4,
+      "commentsUrl": "https://lobste.rs/s/c7tzjs/perfect_types_with_sethtml",
+      "publishedAt": "2026-03-07T16:16:16.000-06:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z",
+      "summary": "Perfect types with `setHTML()`"
+    },
+    {
+      "id": "hn-47298655",
+      "title": "The human.json Protocol",
+      "url": "https://codeberg.org/robida/human.json",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 18,
+      "comments": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47298655",
+      "author": "todsacerdoti",
+      "publishedAt": "2026-03-08T16:33:30.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "A lightweight protocol for humans to ass…"
+    },
+    {
+      "id": "lobsters-w5czhm",
+      "title": "Nix is a lie, and that’s ok",
+      "url": "https://fzakaria.com/2026/03/07/nix-is-a-lie-and-that-s-ok",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 18,
+      "comments": 11,
+      "commentsUrl": "https://lobste.rs/s/w5czhm/nix_is_lie_s_ok",
+      "publishedAt": "2026-03-07T16:15:12.000-06:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z",
+      "summary": "When Eelco Dolstra, father of Nix, desce…"
+    },
+    {
+      "id": "lobsters-z765ue",
+      "title": "symbolic derivatives and the rust rewrite of RE#",
+      "url": "https://iev.ee/blog/symbolic-derivatives-and-the-rust-rewrite-of-resharp/",
+      "source": "lobsters",
+      "categories": [
+        "backend"
+      ],
+      "score": 17,
+      "comments": 0,
+      "commentsUrl": "https://lobste.rs/s/z765ue/symbolic_derivatives_rust_rewrite_re",
+      "publishedAt": "2026-03-08T08:08:56.000-05:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z"
+    },
+    {
+      "id": "devto-3327572",
+      "title": "TanStack Is Eating React's Ecosystem — And Nobody Is Talking About It",
+      "url": "https://dev.to/harsh2644/tanstack-is-eating-reacts-ecosystem-and-nobody-is-talking-about-it-10n0",
+      "source": "devto",
+      "categories": [
+        "frontend"
+      ],
+      "score": 14,
+      "comments": 0,
+      "author": "harsh2644",
+      "publishedAt": "2026-03-08T18:04:11Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "Six months ago, I would have laughed at …"
+    },
+    {
+      "id": "lobsters-w047bo",
+      "title": "Coloring for Colorblindness",
+      "url": "https://davidmathlogic.com/colorblind",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 14,
+      "comments": 1,
+      "commentsUrl": "https://lobste.rs/s/w047bo/coloring_for_colorblindness",
+      "publishedAt": "2026-03-07T20:27:29.000-06:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z"
+    },
+    {
+      "id": "lobsters-e72lgq",
+      "title": "Impressions from Mozilla 1.2b (2002)",
+      "url": "https://movq.de/blog/postings/2026-03-08/0/POSTING-en.html",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 13,
+      "comments": 2,
+      "commentsUrl": "https://lobste.rs/s/e72lgq/impressions_from_mozilla_1_2b_2002",
+      "publishedAt": "2026-03-08T12:57:58.000-05:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z"
+    },
+    {
+      "id": "devto-3326277",
+      "title": "Confessions of an AI Sceptic",
+      "url": "https://dev.to/sukkergris/confessions-of-an-ai-sceptic-4j7e",
+      "source": "devto",
+      "categories": [
+        "other"
+      ],
+      "score": 9,
+      "comments": 1,
+      "author": "sukkergris",
+      "publishedAt": "2026-03-08T10:52:16Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "First of all — yes, I’m a real sceptic. …"
+    },
+    {
+      "id": "devto-3326187",
+      "title": "🙃 So Your Manager is Passive Aggressive: A Survival Guide for Developers",
+      "url": "https://dev.to/shiftescape/so-your-manager-is-passive-aggressive-a-survival-guide-for-developers-jnb",
+      "source": "devto",
+      "categories": [
+        "other"
+      ],
+      "score": 9,
+      "comments": 0,
+      "author": "shiftescape",
+      "publishedAt": "2026-03-08T08:27:27Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "Decoding the silent treatment, the backh…"
+    },
+    {
+      "id": "lobsters-8dz5tt",
+      "title": "Primitive proposal for human-interface improvement on Lobste.rs",
+      "url": "https://www.figma.com/proto/wyDB0nvSiZCmvlsSLCf4eY/Websites?node-id=244-252&p=f&t=hi5Tfa6PoucMf2hW-1&scaling=scale-down-width&content-scaling=fixed&page-id=140%3A126",
+      "source": "lobsters",
+      "categories": [
+        "security"
+      ],
+      "score": 9,
+      "comments": 25,
+      "commentsUrl": "https://lobste.rs/s/8dz5tt/primitive_proposal_for_human_interface",
+      "publishedAt": "2026-03-07T20:03:13.000-06:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z",
+      "summary": "Created with Figma"
+    },
+    {
+      "id": "hn-47301241",
+      "title": "Lil Finder Guy",
+      "url": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
+      "source": "hacker-news",
+      "categories": [
+        "other"
+      ],
+      "score": 7,
+      "comments": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47301241",
+      "author": "frizlab",
+      "publishedAt": "2026-03-08T20:43:19.000Z",
+      "fetchedAt": "2026-03-08T21:28:16.194Z",
+      "summary": "Who is it? What is it? Is it friend or f…"
+    },
+    {
+      "id": "devto-3324409",
+      "title": "I overpowered AI by inventing \"Brilliant\" code by AI opinion itself",
+      "url": "https://dev.to/framemuse/i-overpowered-ai-by-inventing-brilliant-code-by-ai-opinion-itself-3732",
+      "source": "devto",
+      "categories": [
+        "other"
+      ],
+      "score": 7,
+      "comments": 1,
+      "author": "framemuse",
+      "publishedAt": "2026-03-07T21:35:20Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "As it always happens to me, I started fr…"
+    },
+    {
+      "id": "devto-3325207",
+      "title": "Why I replaced \"think freely\" with structured blackboarding in my agent loops",
+      "url": "https://dev.to/askpatrick/why-i-replaced-think-freely-with-structured-blackboarding-in-my-agent-loops-am3",
+      "source": "devto",
+      "categories": [
+        "other"
+      ],
+      "score": 7,
+      "comments": 5,
+      "author": "askpatrick",
+      "publishedAt": "2026-03-08T03:09:33Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "A developer named GrahamTheDev left a co…"
+    },
+    {
+      "id": "lobsters-exxoe2",
+      "title": "Blocking HTTP1.1",
+      "url": "https://sheep.horse/2026/3/blocking_http1.1_-_some_results.html",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 7,
+      "comments": 8,
+      "commentsUrl": "https://lobste.rs/s/exxoe2/blocking_http1_1",
+      "publishedAt": "2026-03-08T12:35:34.000-05:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z"
+    },
+    {
+      "id": "lobsters-ooandv",
+      "title": "GNU and the AI reimplementations",
+      "url": "https://antirez.com/news/162",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 7,
+      "comments": 12,
+      "commentsUrl": "https://lobste.rs/s/ooandv/gnu_ai_reimplementations",
+      "publishedAt": "2026-03-08T11:39:30.000-05:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z"
+    },
+    {
+      "id": "devto-3325173",
+      "title": "I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)",
+      "url": "https://dev.to/osmankahraman/i-built-a-tinder-style-github-discovery-app-and-ran-into-some-interesting-api-problems-236b",
+      "source": "devto",
+      "categories": [
+        "other"
+      ],
+      "score": 6,
+      "comments": 0,
+      "author": "osmankahraman",
+      "publishedAt": "2026-03-08T03:08:41Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "Scrolling through GitHub to find interes…"
+    },
+    {
+      "id": "devto-3324553",
+      "title": "When Your AI Agent Starts Fixing Itself: A Week of Rebuilding Wiz",
+      "url": "https://dev.to/joozio/when-your-ai-agent-starts-fixing-itself-a-week-of-rebuilding-wiz-31an",
+      "source": "devto",
+      "categories": [
+        "ai"
+      ],
+      "score": 6,
+      "comments": 6,
+      "author": "joozio",
+      "publishedAt": "2026-03-07T23:10:53Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "When Your AI Agent Starts Fixing Itself:…"
+    },
+    {
+      "id": "devto-3327598",
+      "title": "The Local AI Hardware Guide (2026)",
+      "url": "https://dev.to/axrisi/the-local-ai-hardware-guide-2026-4mk",
+      "source": "devto",
+      "categories": [
+        "other"
+      ],
+      "score": 5,
+      "comments": 0,
+      "author": "axrisi",
+      "publishedAt": "2026-03-08T18:17:39Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "If you are trying to build a machine to …"
+    },
+    {
+      "id": "devto-3326363",
+      "title": "Notion Career Sync: 1-Click AI Job Tracker via Notion MCP",
+      "url": "https://dev.to/samyak_jain_2c769a6af29c1/notion-career-sync-1-click-ai-job-tracker-via-notion-mcp-4afi",
+      "source": "devto",
+      "categories": [
+        "ai"
+      ],
+      "score": 4,
+      "comments": 1,
+      "author": "samyak_jain_2c769a6af29c1",
+      "publishedAt": "2026-03-08T10:34:02Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "This is a submission for the Notion MCP …"
+    },
+    {
+      "id": "devto-3325058",
+      "title": "AI Agent Landscape: February 2026 Data from Running One for 6 Months",
+      "url": "https://dev.to/joozio/ai-agent-landscape-february-2026-data-from-running-one-for-6-months-33ap",
+      "source": "devto",
+      "categories": [
+        "ai"
+      ],
+      "score": 3,
+      "comments": 7,
+      "author": "joozio",
+      "publishedAt": "2026-03-08T02:05:39Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "I have been running a personal AI agent …"
+    },
+    {
+      "id": "devto-3325931",
+      "title": "The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite",
+      "url": "https://dev.to/crisiscoresystems/the-micro-coercion-of-speed-why-friction-is-an-engineering-prerequisite-g4j",
+      "source": "devto",
+      "categories": [
+        "other"
+      ],
+      "score": 3,
+      "comments": 2,
+      "author": "crisiscoresystems",
+      "publishedAt": "2026-03-08T06:10:51Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "AI-assisted velocity can collapse verifi…"
+    },
+    {
+      "id": "devto-3325203",
+      "title": "I Built a Desktop Tamagotchi Cat with AI Brain in Swift - and It Lives on My macOS Doc",
+      "url": "https://dev.to/egorfedorov/i-built-a-desktop-tamagotchi-cat-with-ai-brain-in-swift-and-it-lives-on-my-macos-doc-4e94",
+      "source": "devto",
+      "categories": [
+        "other"
+      ],
+      "score": 2,
+      "comments": 2,
+      "author": "egorfedorov",
+      "publishedAt": "2026-03-08T03:05:15Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "You know that feeling when you&#39;re co…"
+    },
+    {
+      "id": "devto-3327480",
+      "title": "Stop Treating AI Agents as Web Servers: A Kubernetes Survival Guide - Part 1",
+      "url": "https://dev.to/shanmukhi_kairuppala/stop-treating-ai-agents-as-web-servers-a-kubernetes-survival-guide-part-1-cal",
+      "source": "devto",
+      "categories": [
+        "ai",
+        "infra"
+      ],
+      "score": 2,
+      "comments": 0,
+      "author": "shanmukhi_kairuppala",
+      "publishedAt": "2026-03-08T17:39:43Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "Before we Begin   We need to get somethi…"
+    },
+    {
+      "id": "devto-3327436",
+      "title": "I Built a Portable AI Memory Layer with MCP, AWS Bedrock, and a Chrome Extension",
+      "url": "https://dev.to/abdulai_yorliiddrisu_f5b/i-built-a-portable-ai-memory-layer-with-mcp-aws-bedrock-and-a-chrome-extension-18de",
+      "source": "devto",
+      "categories": [
+        "ai",
+        "infra"
+      ],
+      "score": 2,
+      "comments": 0,
+      "author": "abdulai_yorliiddrisu_f5b",
+      "publishedAt": "2026-03-08T17:14:11Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "AI tools have memory now. Claude remembe…"
+    },
+    {
+      "id": "lobsters-jkq80y",
+      "title": "Cakelisp",
+      "url": "https://macoy.me/code/macoy/cakelisp/src/branch/master/doc/Cakelisp.org",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 2,
+      "comments": 1,
+      "commentsUrl": "https://lobste.rs/s/jkq80y/cakelisp",
+      "publishedAt": "2026-03-08T16:00:44.000-05:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z"
+    },
+    {
+      "id": "lobsters-t319re",
+      "title": "Interpreting whiteout files in Docker image layers",
+      "url": "https://www.madebymikal.com/interpreting-whiteout-files-in-docker-image-layers/",
+      "source": "lobsters",
+      "categories": [
+        "infra"
+      ],
+      "score": 2,
+      "comments": 0,
+      "commentsUrl": "https://lobste.rs/s/t319re/interpreting_whiteout_files_docker",
+      "publishedAt": "2026-03-08T14:06:13.000-05:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z"
+    },
+    {
+      "id": "devto-3321161",
+      "title": "How I Designed a Multi-Tenant ERP System That Isolates 100% of Customer Data",
+      "url": "https://dev.to/ravindu2012/how-i-designed-a-multi-tenant-erp-system-that-isolates-100-of-customer-data-5865",
+      "source": "devto",
+      "categories": [
+        "other"
+      ],
+      "score": 1,
+      "comments": 0,
+      "author": "ravindu2012",
+      "publishedAt": "2026-03-08T19:18:40Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "How I Designed a Multi-Tenant ERP System…"
+    },
+    {
+      "id": "devto-3324551",
+      "title": "My AI Agent Works Night Shifts, Builds Apps, and Is Trying to Pay for Itself",
+      "url": "https://dev.to/joozio/my-ai-agent-works-night-shifts-builds-apps-and-is-trying-to-pay-for-itself-35f",
+      "source": "devto",
+      "categories": [
+        "ai"
+      ],
+      "score": 1,
+      "comments": 2,
+      "author": "joozio",
+      "publishedAt": "2026-03-07T23:09:48Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "My AI Agent Works Night Shifts, Builds A…"
+    },
+    {
+      "id": "devto-3327284",
+      "title": "SaaS Multi-Tenant en Go: Guia Practica de Row-Level Security en PostgreSQL",
+      "url": "https://dev.to/gopherscl/saas-multi-tenant-en-go-guia-practica-de-row-level-security-en-postgresql-1hkk",
+      "source": "devto",
+      "categories": [
+        "frontend",
+        "backend"
+      ],
+      "score": 1,
+      "comments": 0,
+      "author": "robertoaraneda",
+      "publishedAt": "2026-03-08T16:28:30Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "Como implementar aislamiento de datos po…"
+    },
+    {
+      "id": "devto-3327049",
+      "title": "AI Regression Tests Written in Markdown, Not Code",
+      "url": "https://dev.to/hybridtechie/ai-regression-tests-written-in-markdown-not-code-5b09",
+      "source": "devto",
+      "categories": [
+        "other"
+      ],
+      "score": 1,
+      "comments": 1,
+      "author": "hybridtechie",
+      "publishedAt": "2026-03-08T14:30:23Z",
+      "fetchedAt": "2026-03-08T21:28:15.967Z",
+      "summary": "As AI agents write more of our productio…"
+    },
+    {
+      "id": "lobsters-jt2yn5",
+      "title": "Solving Regex Crosswords Without Z3",
+      "url": "https://danielalp.com/blog/regex_crossword/",
+      "source": "lobsters",
+      "categories": [
+        "infra"
+      ],
+      "score": 1,
+      "comments": 0,
+      "commentsUrl": "https://lobste.rs/s/jt2yn5/solving_regex_crosswords_without_z3",
+      "publishedAt": "2026-03-08T15:25:25.000-05:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z"
+    },
+    {
+      "id": "lobsters-ohmnbx",
+      "title": "Bending Emacs - Episode 13: agent-shell charting",
+      "url": "https://xenodium.com/bending-emacs-episode-13-agent-shell-charting",
+      "source": "lobsters",
+      "categories": [
+        "other"
+      ],
+      "score": 1,
+      "comments": 0,
+      "commentsUrl": "https://lobste.rs/s/ohmnbx/bending_emacs_episode_13_agent_shell",
+      "publishedAt": "2026-03-08T12:21:36.000-05:00",
+      "fetchedAt": "2026-03-08T21:28:15.948Z",
+      "summary": "Time for a new Bending Emacs episode. Th…"
+    }
+  ],
+  "stats": {
+    "total": 196,
+    "bySource": {
+      "hatena-bookmark": 28,
+      "zenn": 17,
+      "publickey": 14,
+      "qiita": 27,
+      "itmedia": 49,
+      "hacker-news": 23,
+      "lobsters": 18,
+      "devto": 20
+    },
+    "byCategory": {
+      "other": 122,
+      "backend": 8,
+      "infra": 15,
+      "ai": 49,
+      "security": 4,
+      "frontend": 7
+    }
+  }
+}
